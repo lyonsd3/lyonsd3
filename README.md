@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lyonsd3
-- 👀 I’m interested in Video Game development and Artificial Intelligence.
-- 🌱 I’m currently learning Compiler Theory and Design, Mobile Device Programming, and Analysis of Algorithms.
+- 👀 I’m interested in Game Development and Artificial Intelligence.
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on projects to build experience in the field.
 - 📫 I can be reached at dallasdlyons@gmail.com .
 
